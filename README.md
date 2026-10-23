@@ -48,8 +48,8 @@ MUJ-DS-RegNo/
 ## Quick Start
 
 ```bash
-git clone https://github.com/____________________/MUJ-DS-____________________.git
-cd MUJ-DS-____________________
+git clone https://github.com/____________________/MUJ-DS-2430010354.git
+cd MUJ-DS-2430010354
 pip install -r code/requirements.txt
 python code/predict.py --image path/to/mri.jpg --checkpoint best_model.pt
 ```
