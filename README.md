@@ -1,4 +1,4 @@
-# MUJ-DS-____________________
+# MUJ-DS-2430010354
 
 > Personal training repository for the Batch F Data Science training program.
 
@@ -10,7 +10,7 @@
 | **Registration Number** | 2430010354|
 | **Branch** | Data Science |
 | **Batch** | D |
-| **Project Title** | Brain Tumor MRI Classification using CNN (Transfer Learning) |
+| **Project Title** | Brain Tumor MRI Classification using CNN (Transfer Learning), SWIM-T Transformers |
 | **GitHub Username** | Chinmay-goyal-07 |
 
 ## Training Program Details
